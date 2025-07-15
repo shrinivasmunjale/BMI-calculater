@@ -1,0 +1,64 @@
+.header{
+    height: 50px;
+    background-color: rgb(29, 29, 69);
+    color: antiquewhite;
+    text-align: center;
+    line-height: 3rem;
+}
+.con{
+    position: relative;
+    top:20px;
+    left:300px;
+   background-color: cornflowerblue;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+#height{
+    position: relative;
+    top: -10px;
+    left: 20px;
+    border: none;
+    border-bottom: 2px solid red;
+    
+    
+}
+#weight{
+    position: relative;
+    top: -10px;
+    left: 20px;
+    border: none;
+    border-bottom: 2px solid red;
+    
+    
+}
+h3{
+    text-align: center;
+}
+
+#button{
+    position: relative;
+    left:60px;
+    
+    height: 30px;
+    text-align: center;
+     background-color: cadetblue;
+     border: none;
+     border-radius: 10px;
+}
+h4{
+    position: relative;
+    top:-10px;
+   
+}
+.result{
+    position:absolute;
+    left:300px;
+    top:350px;
+    text-align: center;
+    height: 20px;
+    width: 200px;
+    border: 2px solid green;
+
+}
+
